@@ -1,0 +1,15 @@
+C:\Users\DiaZo\source\repos\TPLaba3\bin\Debug\net6.0\TPLaba3.exe
+C:\Users\DiaZo\source\repos\TPLaba3\bin\Debug\net6.0\TPLaba3.deps.json
+C:\Users\DiaZo\source\repos\TPLaba3\bin\Debug\net6.0\TPLaba3.runtimeconfig.json
+C:\Users\DiaZo\source\repos\TPLaba3\bin\Debug\net6.0\TPLaba3.dll
+C:\Users\DiaZo\source\repos\TPLaba3\bin\Debug\net6.0\ref\TPLaba3.dll
+C:\Users\DiaZo\source\repos\TPLaba3\bin\Debug\net6.0\TPLaba3.pdb
+C:\Users\DiaZo\source\repos\TPLaba3\obj\Debug\net6.0\TPLaba3.csproj.AssemblyReference.cache
+C:\Users\DiaZo\source\repos\TPLaba3\obj\Debug\net6.0\TPLaba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiaZo\source\repos\TPLaba3\obj\Debug\net6.0\TPLaba3.AssemblyInfoInputs.cache
+C:\Users\DiaZo\source\repos\TPLaba3\obj\Debug\net6.0\TPLaba3.AssemblyInfo.cs
+C:\Users\DiaZo\source\repos\TPLaba3\obj\Debug\net6.0\TPLaba3.csproj.CoreCompileInputs.cache
+C:\Users\DiaZo\source\repos\TPLaba3\obj\Debug\net6.0\TPLaba3.dll
+C:\Users\DiaZo\source\repos\TPLaba3\obj\Debug\net6.0\ref\TPLaba3.dll
+C:\Users\DiaZo\source\repos\TPLaba3\obj\Debug\net6.0\TPLaba3.pdb
+C:\Users\DiaZo\source\repos\TPLaba3\obj\Debug\net6.0\TPLaba3.genruntimeconfig.cache
