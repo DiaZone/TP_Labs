@@ -1,0 +1,17 @@
+C:\Users\DiaZo\source\repos\TPLaba8\bin\Debug\net6.0-windows\TPLaba8.exe
+C:\Users\DiaZo\source\repos\TPLaba8\bin\Debug\net6.0-windows\TPLaba8.deps.json
+C:\Users\DiaZo\source\repos\TPLaba8\bin\Debug\net6.0-windows\TPLaba8.runtimeconfig.json
+C:\Users\DiaZo\source\repos\TPLaba8\bin\Debug\net6.0-windows\TPLaba8.dll
+C:\Users\DiaZo\source\repos\TPLaba8\bin\Debug\net6.0-windows\TPLaba8.pdb
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\TPLaba8.csproj.AssemblyReference.cache
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\TPLaba8.Form1.resources
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\TPLaba8.csproj.GenerateResource.cache
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\TPLaba8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\TPLaba8.AssemblyInfoInputs.cache
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\TPLaba8.AssemblyInfo.cs
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\TPLaba8.csproj.CoreCompileInputs.cache
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\TPLaba8.dll
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\refint\TPLaba8.dll
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\TPLaba8.pdb
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\TPLaba8.genruntimeconfig.cache
+C:\Users\DiaZo\source\repos\TPLaba8\obj\Debug\net6.0-windows\ref\TPLaba8.dll
