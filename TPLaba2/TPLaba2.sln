@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPLaba2", "TPLaba2.csproj", "{A7CB207A-40ED-4D68-844B-16B01E65E248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CB207A-40ED-4D68-844B-16B01E65E248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CB207A-40ED-4D68-844B-16B01E65E248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CB207A-40ED-4D68-844B-16B01E65E248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CB207A-40ED-4D68-844B-16B01E65E248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {941DFCF9-B7ED-45FD-B9C0-BCB28E0B0CF2}
+	EndGlobalSection
+EndGlobal
