@@ -1,0 +1,17 @@
+C:\Users\DiaZo\source\repos\TP_Laba7\bin\Debug\net6.0-windows\TP_Laba7.exe
+C:\Users\DiaZo\source\repos\TP_Laba7\bin\Debug\net6.0-windows\TP_Laba7.deps.json
+C:\Users\DiaZo\source\repos\TP_Laba7\bin\Debug\net6.0-windows\TP_Laba7.runtimeconfig.json
+C:\Users\DiaZo\source\repos\TP_Laba7\bin\Debug\net6.0-windows\TP_Laba7.dll
+C:\Users\DiaZo\source\repos\TP_Laba7\bin\Debug\net6.0-windows\TP_Laba7.pdb
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\TP_Laba7.csproj.AssemblyReference.cache
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\TP_Laba7.Form1.resources
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\TP_Laba7.csproj.GenerateResource.cache
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\TP_Laba7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\TP_Laba7.AssemblyInfoInputs.cache
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\TP_Laba7.AssemblyInfo.cs
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\TP_Laba7.csproj.CoreCompileInputs.cache
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\TP_Laba7.dll
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\refint\TP_Laba7.dll
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\TP_Laba7.pdb
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\TP_Laba7.genruntimeconfig.cache
+C:\Users\DiaZo\source\repos\TP_Laba7\obj\Debug\net6.0-windows\ref\TP_Laba7.dll
